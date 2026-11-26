@@ -5,6 +5,3 @@
 [submodule "HLAtools"]
 	path = HLAtools
 	url = https://github.com/sjmack/hlatools
-[submodule "pould"]
-	path = pould
-	url = https://github.com/cran/pould
